@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.log
+.env
+.vscode/
+
+# Reportes opcionales
+client_profile_report.html
+
+# Versiones intermedias
+Actividad_4_KMeans_Ejecutada.ipynb
+Actividad_4_KMeans_Mall_Customers_Resuelta.ipynb
+LEEME_Actividad_4.txt
